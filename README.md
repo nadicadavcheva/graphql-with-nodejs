@@ -8,7 +8,7 @@ Install NodeJS from [https://nodejs.org](https://nodejs.org)
 Clone the code using the following command
 
 ```bash
-git clone https://github.com/aditya-sridhar/graphql-with-nodejs.git
+git clone https://github.com/nadicadavcheva/graphql-with-nodejs
 ```
 # Running the Application
 
